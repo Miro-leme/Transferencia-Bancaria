@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6j8RGQnINxRhxiN5U9MmzCxKtPO3YUgWmmi3NGO+BheUZ9hTZLY8aqhCdS+TVBsex0l2V+HqcP+Gghc0DxK2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miro\\Google Drive\\Documentos\\CURSO DIGITAL INNOVATION ONE\\DotNet\\DIO\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miro\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Miro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Miro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Miro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
